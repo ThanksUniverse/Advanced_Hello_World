@@ -1,0 +1,26 @@
+[
+  {
+    "language": "en",
+    "translations": {
+      "Greeting": "Hello World"
+    }
+  },
+  {
+    "language": "es",
+    "translations": {
+      "Greeting": "Hola Mundo"
+    }
+  },
+  {
+    "language": "pt",
+    "translations": {
+      "Greeting": "Ola Mundo"
+    }
+  },
+  {
+    "language": "fr",
+    "translations": {
+      "Greeting": "Salut tout le monde"
+    }
+  }
+]
