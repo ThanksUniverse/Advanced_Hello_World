@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {}
+    "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {}
   },
   "projects": {
-    "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
+    "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+        "projectUniqueName": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
         "projectName": "HelloWorldLibrary",
-        "projectPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+        "projectPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\obj\\",
+        "outputPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Dependencies\\VisualStudio SDKs\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

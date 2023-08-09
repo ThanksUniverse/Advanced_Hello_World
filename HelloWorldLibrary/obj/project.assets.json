@@ -81,19 +81,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Desktop\\.nuget\\packages\\": {}
+    "C:\\Users\\Desktop\\.nuget\\packages\\": {},
+    "D:\\Dependencies\\VisualStudio SDKs\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+      "projectUniqueName": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
       "projectName": "HelloWorldLibrary",
-      "projectPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
+      "projectPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\obj\\",
+      "outputPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Dependencies\\VisualStudio SDKs\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -101,6 +106,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

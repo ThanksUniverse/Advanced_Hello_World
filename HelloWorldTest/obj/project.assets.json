@@ -6201,19 +6201,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Desktop\\.nuget\\packages\\": {}
+    "C:\\Users\\Desktop\\.nuget\\packages\\": {},
+    "D:\\Dependencies\\VisualStudio SDKs\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\HelloWorldTest.csproj",
+      "projectUniqueName": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\HelloWorldTest.csproj",
       "projectName": "HelloWorldTest",
-      "projectPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\HelloWorldTest.csproj",
+      "projectPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\HelloWorldTest.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\obj\\",
+      "outputPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Dependencies\\VisualStudio SDKs\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6221,14 +6226,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
-              "projectPath": "D:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj"
+            "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj": {
+              "projectPath": "d:\\Study-Work\\Study\\c#_SQL\\UltimateHelloWorld\\HelloWorldLibrary\\HelloWorldLibrary.csproj"
             }
           }
         }
