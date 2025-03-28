@@ -20,7 +20,7 @@ catch (Exception ex)
 static IHostBuilder CreateHostBuilder(string[] args)
 {
     return Host.CreateDefaultBuilder(args)
-        .ConfigureServices((_, services )=>
+        .ConfigureServices((_, services) =>
         {
             services.AddSingleton<IMessages, Messages>();
             services.AddSingleton<App>();

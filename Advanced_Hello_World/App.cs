@@ -7,7 +7,7 @@ public class App
     private readonly IMessages messages;
 
     public App(IMessages messages)
-	{
+    {
         this.messages = messages;
     }
 
